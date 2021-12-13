@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/abu"
+    android:layout_width="372dp"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_marginTop="40sp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:id="@+id/txtnama"
+        android:layout_height="wrap_content"
+        android:text="Dokter ALFAN N"
+        android:layout_gravity="center"
+        android:textAppearance="@style/textdatadokter"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dokter"
+        android:id="@+id/txthari"
+        android:layout_gravity="center"
+        android:textAppearance="@style/textdatadokter"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dokter"
+        android:id="@+id/txtjam"
+        android:layout_gravity="center"
+        android:textAppearance="@style/textdatadokter"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dokter"
+        android:id="@+id/txtcp"
+        android:layout_gravity="center"
+        android:textAppearance="@style/textdatadokter"
+        android:layout_marginBottom="40sp"
+        />
+
+</LinearLayout>

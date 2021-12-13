@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014728273828",
+    "project_id": "medicare-cdc3b",
+    "storage_bucket": "medicare-cdc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014728273828:android:97b8622732eaa7e5a5db31",
+        "android_client_info": {
+          "package_name": "com.medicare.prohealthymedicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014728273828-uiniv33tkdkvp22smb50s173o785q0e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicare.prohealthymedicare",
+            "certificate_hash": "d8cc31c19324c6480cb0f9762e60cc9c6719f504"
+          }
+        },
+        {
+          "client_id": "1014728273828-lcftq3bpmc0pe1st89ipcrm96hbqdbjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpl8jnLqExQZV55WaMAaQ2p_PJN-rdtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014728273828-lcftq3bpmc0pe1st89ipcrm96hbqdbjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

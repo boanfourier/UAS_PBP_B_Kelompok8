@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pro Healthy Medicare</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="singin">Sign In</string>
+    <string name="firstname">First Name</string>
+    <string name="register">Register</string>
+    <string name="lastname">Last Name</string>
+    <string name="home">Home</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selamatdatang">Selamat Datang</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="datadokter">Data Dokter</string>
+    <string name="ketentuanpendaftaran">Ketentuan Pendaftaran</string>
+    <string name="informasitentangklinik">Informasi Tentang Klinik</string>
+    <string name="editprofil">Edit Profil</string>
+    <string name="logout">Log Out</string>
+    <string name="signup">Sign Up</string>
+    <string name="praktik">Praktik</string>
+    <string name="tanggalpraktik">Tanggal Praktik</string>
+    <string name="keluhan">Keluhan</string>
+    <string name="cancel">Cancel</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftarjadwalpraktik">Daftar Jadwal Praktik</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="jenispraktik">Jenis praktik</string>
+    <string name="editregistrasi">Edit Registrasi</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYm9hbiIsImEiOiJja3Vsa24wbXIxMnk3Mm9wOGlsenIxaXhmIn0.xXftVOzhI5-3qEhXCiFzAA</string>
+    <string name="camera">Kamera</string>
+    <string name="simpan">SImpan</string>
+    <string name="verifikasi">Verifikasi</string>
+    <string name="status">Status</string>
+    <string name="email">Email</string>
+    <string name="nohp">No Hp</string>
+    <string name="editfoto">Edit Foto</string>
+    <string name="hapus">Hapus</string>
+</resources>
